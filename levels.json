@@ -1,0 +1,8 @@
+[
+    { "riddle": "First letter of alphabet? _",
+    "solution" : "A" },
+    { "riddle": "1 + 2 = _?",
+    "solution" : "3" }, 
+    { "riddle": "A, B, C, D, E, _?",
+    "solution" : "F" }
+    ]
